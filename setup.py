@@ -57,7 +57,6 @@ setup(
             "tensorflow <= 2.10.0",
             "tensorflow-addons <= 0.16.1",
             "crystal4D",
-            "cupy >= 10.0.0",
             "typeguard == 2.7",
         ],
         "numba": ["numba >= 0.49.1"],
